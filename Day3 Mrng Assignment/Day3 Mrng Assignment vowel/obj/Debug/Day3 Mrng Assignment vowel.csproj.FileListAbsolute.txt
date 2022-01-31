@@ -1,0 +1,3 @@
+C:\Users\KOLLI TEJASWI\source\repos\Day3 Mrng Assignment vowel\obj\Debug\Day3 Mrng Assignment vowel.csproj.AssemblyReference.cache
+C:\Users\KOLLI TEJASWI\source\repos\Day3 Mrng Assignment vowel\obj\Debug\Day3 Mrng Assignment vowel.csproj.SuggestedBindingRedirects.cache
+C:\Users\KOLLI TEJASWI\source\repos\Day3 Mrng Assignment vowel\obj\Debug\Day3 Mrng Assignment vowel.csproj.CoreCompileInputs.cache

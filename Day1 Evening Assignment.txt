@@ -1,0 +1,34 @@
+1.write all 14 data types discussed in class in sequence?
+.Byte
+.UShort
+.Uint
+.Ulong
+.Sbyte
+.Short
+.Int
+.Long
+.Float
+.Double
+.Decimal
+.Char
+.Boolean
+.String
+
+2.write list of 4 number sysytems and their digits range?
+Number Systems      Range
+.Binary           (0 to 1)
+.Octal            (0 to 7)
+.Decimal          (0 to 9)
+.Hexa Decimal     (0 to 9,A to F)
+
+
+3.convert Decimal: 55,24,18 to Binary?
+a)55->110111
+b)24->11000
+c)18->10010
+
+4.convert Binary: 10110,1011,101110 to Decimal?
+a)10110->22
+b)1011->11
+c)101110->46
+

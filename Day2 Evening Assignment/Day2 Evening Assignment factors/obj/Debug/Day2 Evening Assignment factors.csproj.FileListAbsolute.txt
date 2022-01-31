@@ -1,0 +1,8 @@
+C:\Users\KOLLI TEJASWI\source\repos\Day2 Evening Assignment factors\obj\Debug\Day2 Evening Assignment factors.csproj.AssemblyReference.cache
+C:\Users\KOLLI TEJASWI\source\repos\Day2 Evening Assignment factors\obj\Debug\Day2 Evening Assignment factors.csproj.SuggestedBindingRedirects.cache
+C:\Users\KOLLI TEJASWI\source\repos\Day2 Evening Assignment factors\obj\Debug\Day2 Evening Assignment factors.csproj.CoreCompileInputs.cache
+C:\Users\KOLLI TEJASWI\source\repos\Day2 Evening Assignment factors\bin\Debug\Day2 Evening Assignment factors.exe.config
+C:\Users\KOLLI TEJASWI\source\repos\Day2 Evening Assignment factors\bin\Debug\Day2 Evening Assignment factors.exe
+C:\Users\KOLLI TEJASWI\source\repos\Day2 Evening Assignment factors\bin\Debug\Day2 Evening Assignment factors.pdb
+C:\Users\KOLLI TEJASWI\source\repos\Day2 Evening Assignment factors\obj\Debug\Day2 Evening Assignment factors.exe
+C:\Users\KOLLI TEJASWI\source\repos\Day2 Evening Assignment factors\obj\Debug\Day2 Evening Assignment factors.pdb

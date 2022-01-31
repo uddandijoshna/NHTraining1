@@ -1,0 +1,8 @@
+C:\Users\KOLLI TEJASWI\source\repos\Day2mrng\bin\Debug\Day2mrng.exe.config
+C:\Users\KOLLI TEJASWI\source\repos\Day2mrng\bin\Debug\Day2mrng.exe
+C:\Users\KOLLI TEJASWI\source\repos\Day2mrng\bin\Debug\Day2mrng.pdb
+C:\Users\KOLLI TEJASWI\source\repos\Day2mrng\obj\Debug\Day2mrng.csproj.AssemblyReference.cache
+C:\Users\KOLLI TEJASWI\source\repos\Day2mrng\obj\Debug\Day2mrng.csproj.SuggestedBindingRedirects.cache
+C:\Users\KOLLI TEJASWI\source\repos\Day2mrng\obj\Debug\Day2mrng.csproj.CoreCompileInputs.cache
+C:\Users\KOLLI TEJASWI\source\repos\Day2mrng\obj\Debug\Day2mrng.exe
+C:\Users\KOLLI TEJASWI\source\repos\Day2mrng\obj\Debug\Day2mrng.pdb

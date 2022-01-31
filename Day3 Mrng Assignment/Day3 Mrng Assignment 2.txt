@@ -1,0 +1,12 @@
+1.Difference between While loop & Do while loop?
+.While loop checks the condition first and then executes the statement(s)
+.Do while loop will execute the statement(s) at least once,then the condition is checked
+
+
+6.write the 6 points about arrays discussed in the class?
+.array is the data structure that stores a fixed number of literal values of the same data type
+.array elements are stored contiguously in the memory
+.array type variables can be declared using var without square brackets
+.it is not neccesary to declare and initialize an array in a single statement
+.array elements can be accessed using an index
+.in c# array sre 3 types:mutlidimensional,single dimensional,jagged array  

@@ -1,0 +1,2 @@
+C:\Users\KOLLI TEJASWI\source\repos\Day2 Evening Assignment hello\obj\Debug\Day2 Evening Assignment hello.csproj.SuggestedBindingRedirects.cache
+C:\Users\KOLLI TEJASWI\source\repos\Day2 Evening Assignment hello\obj\Debug\Day2 Evening Assignment hello.csproj.CoreCompileInputs.cache

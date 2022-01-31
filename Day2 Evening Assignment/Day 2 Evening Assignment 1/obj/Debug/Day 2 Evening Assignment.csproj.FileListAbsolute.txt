@@ -1,0 +1,7 @@
+C:\Users\KOLLI TEJASWI\source\repos\Day 2 Evening Assignment\bin\Debug\Day 2 Evening Assignment.exe.config
+C:\Users\KOLLI TEJASWI\source\repos\Day 2 Evening Assignment\bin\Debug\Day 2 Evening Assignment.exe
+C:\Users\KOLLI TEJASWI\source\repos\Day 2 Evening Assignment\bin\Debug\Day 2 Evening Assignment.pdb
+C:\Users\KOLLI TEJASWI\source\repos\Day 2 Evening Assignment\obj\Debug\Day 2 Evening Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\KOLLI TEJASWI\source\repos\Day 2 Evening Assignment\obj\Debug\Day 2 Evening Assignment.csproj.CoreCompileInputs.cache
+C:\Users\KOLLI TEJASWI\source\repos\Day 2 Evening Assignment\obj\Debug\Day 2 Evening Assignment.exe
+C:\Users\KOLLI TEJASWI\source\repos\Day 2 Evening Assignment\obj\Debug\Day 2 Evening Assignment.pdb
