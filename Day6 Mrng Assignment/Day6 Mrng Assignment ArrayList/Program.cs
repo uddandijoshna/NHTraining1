@@ -10,15 +10,15 @@ namespace Day6_Mrng_Assignment_ArrayList
             ArrayList data = new ArrayList();
 
             data.Add(10);
-            data.Add(20);
-            data.Add(30);
-            data.Add(40);
-            data.Add(50);
-
+            data.Add(9);
+            data.Add(8);
+            data.Add(7);
+            data.Add(6);
+            foreach(var d in data)
             {
-                sum = sum + Convert.ToInt32(data.Count);
+                sum = sum + (int)d;
             }
-            Console.WriteLine($"Sum of data is {sum}");
+            Console.WriteLine(sum);
             Console.ReadLine();
             }
 
