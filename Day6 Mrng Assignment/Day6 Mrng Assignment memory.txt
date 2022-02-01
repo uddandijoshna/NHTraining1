@@ -1,0 +1,33 @@
+2.Research and find how the values of ArrayList are stored in the memory?
+.The elements of an ArrayList are stored in a chunk of contiguous memory
+.When that memory becomes full,a larger chunk of contiguous memory has to be allocated
+.and the existing elements are copied into this new chunk
+.We call this chunk the capacity of the ArrayList object 
+
+3.What are the Dis-advantages of ArrayList(Collections ArrayList)
+.The non-generic collection classes such as ArrayList,Stack,Queue,Hashtable,etc operate on the object data type
+.As they operator on object data type hence they are loosely typed
+.Loosely typed means you can store any type of value into the collection
+
+5.In a tabular format Write the differences between Collections and generics?
+1.namespace:
+Collections:
+->In Collections the namespace has ArrayList,Hashtable,Queue
+generics:
+->In generic the namespace has CollectionExtensions,SortedDictionary<Tkey,TValue>
+2.Each element is of what type:
+Collections:
+->Collections are enhancement to the arrays.
+->The standard Collections are found under the Sysytem.Collections.
+->They do not store elements as specifically typed objects,but as objects of type Object.
+generics:
+->generic is a class which allows the user to define classes and methods with the placeholder. 
+->generics were added to version 2.0 of the C# language.
+->The basic idea behind using generic is to allow type(Integer,String,...etc and user-defined types)to be a parameter to methods,classes,and interfaces.
+3.do you need type casting here:
+Collections:
+->When the variable of one data type is changed to another data type is known as Type Casting.
+->According to our needs,we can change the type of data.
+->At the time of the compilation,C# is a statically-typed i.e., after the declaration of the variable,we cannot declare it again.
+generics:
+->

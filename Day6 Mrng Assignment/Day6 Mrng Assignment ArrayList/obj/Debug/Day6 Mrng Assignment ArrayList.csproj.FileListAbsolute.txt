@@ -1,0 +1,11 @@
+C:\Users\KOLLI TEJASWI\source\repos\Day6 Mrng Assignment ArrayList\obj\Debug\Day6 Mrng Assignment ArrayList.csproj.AssemblyReference.cache
+C:\Users\KOLLI TEJASWI\source\repos\Day6 Mrng Assignment ArrayList\obj\Debug\Day6 Mrng Assignment ArrayList.csproj.SuggestedBindingRedirects.cache
+C:\Users\KOLLI TEJASWI\source\repos\Day6 Mrng Assignment ArrayList\obj\Debug\Day6 Mrng Assignment ArrayList.csproj.CoreCompileInputs.cache
+C:\NB Tech\Day6 Mrng Assignment\Day6 Mrng Assignment ArrayList\bin\Debug\Day6 Mrng Assignment ArrayList.exe.config
+C:\NB Tech\Day6 Mrng Assignment\Day6 Mrng Assignment ArrayList\bin\Debug\Day6 Mrng Assignment ArrayList.exe
+C:\NB Tech\Day6 Mrng Assignment\Day6 Mrng Assignment ArrayList\bin\Debug\Day6 Mrng Assignment ArrayList.pdb
+C:\NB Tech\Day6 Mrng Assignment\Day6 Mrng Assignment ArrayList\obj\Debug\Day6 Mrng Assignment ArrayList.csproj.AssemblyReference.cache
+C:\NB Tech\Day6 Mrng Assignment\Day6 Mrng Assignment ArrayList\obj\Debug\Day6 Mrng Assignment ArrayList.csproj.SuggestedBindingRedirects.cache
+C:\NB Tech\Day6 Mrng Assignment\Day6 Mrng Assignment ArrayList\obj\Debug\Day6 Mrng Assignment ArrayList.csproj.CoreCompileInputs.cache
+C:\NB Tech\Day6 Mrng Assignment\Day6 Mrng Assignment ArrayList\obj\Debug\Day6 Mrng Assignment ArrayList.exe
+C:\NB Tech\Day6 Mrng Assignment\Day6 Mrng Assignment ArrayList\obj\Debug\Day6 Mrng Assignment ArrayList.pdb

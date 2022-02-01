@@ -1,0 +1,7 @@
+C:\Users\KOLLI TEJASWI\source\repos\Day6 Mrng Assignment  List\bin\Debug\Day6 Mrng Assignment  List.exe.config
+C:\Users\KOLLI TEJASWI\source\repos\Day6 Mrng Assignment  List\bin\Debug\Day6 Mrng Assignment  List.exe
+C:\Users\KOLLI TEJASWI\source\repos\Day6 Mrng Assignment  List\bin\Debug\Day6 Mrng Assignment  List.pdb
+C:\Users\KOLLI TEJASWI\source\repos\Day6 Mrng Assignment  List\obj\Debug\Day6 Mrng Assignment  List.csproj.SuggestedBindingRedirects.cache
+C:\Users\KOLLI TEJASWI\source\repos\Day6 Mrng Assignment  List\obj\Debug\Day6 Mrng Assignment  List.csproj.CoreCompileInputs.cache
+C:\Users\KOLLI TEJASWI\source\repos\Day6 Mrng Assignment  List\obj\Debug\Day6 Mrng Assignment  List.exe
+C:\Users\KOLLI TEJASWI\source\repos\Day6 Mrng Assignment  List\obj\Debug\Day6 Mrng Assignment  List.pdb
