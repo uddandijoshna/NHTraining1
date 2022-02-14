@@ -1,0 +1,8 @@
+C:\Users\sangh\source\repos\Day-15 Project 3\Day-15 Project 3\bin\Debug\Day-15 Project 3.exe.config
+C:\Users\sangh\source\repos\Day-15 Project 3\Day-15 Project 3\bin\Debug\Day-15 Project 3.exe
+C:\Users\sangh\source\repos\Day-15 Project 3\Day-15 Project 3\bin\Debug\Day-15 Project 3.pdb
+C:\Users\sangh\source\repos\Day-15 Project 3\Day-15 Project 3\obj\Debug\Day-15 Project 3.csproj.AssemblyReference.cache
+C:\Users\sangh\source\repos\Day-15 Project 3\Day-15 Project 3\obj\Debug\Day-15 Project 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\sangh\source\repos\Day-15 Project 3\Day-15 Project 3\obj\Debug\Day-15 Project 3.csproj.CoreCompileInputs.cache
+C:\Users\sangh\source\repos\Day-15 Project 3\Day-15 Project 3\obj\Debug\Day-15 Project 3.exe
+C:\Users\sangh\source\repos\Day-15 Project 3\Day-15 Project 3\obj\Debug\Day-15 Project 3.pdb
