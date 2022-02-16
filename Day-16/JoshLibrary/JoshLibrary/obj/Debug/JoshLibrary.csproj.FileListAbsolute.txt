@@ -1,0 +1,6 @@
+E:\NHTraining1\Day-16\JoshLibrary\JoshLibrary\bin\Debug\JoshLibrary.dll
+E:\NHTraining1\Day-16\JoshLibrary\JoshLibrary\bin\Debug\JoshLibrary.pdb
+E:\NHTraining1\Day-16\JoshLibrary\JoshLibrary\obj\Debug\JoshLibrary.csproj.AssemblyReference.cache
+E:\NHTraining1\Day-16\JoshLibrary\JoshLibrary\obj\Debug\JoshLibrary.csproj.CoreCompileInputs.cache
+E:\NHTraining1\Day-16\JoshLibrary\JoshLibrary\obj\Debug\JoshLibrary.dll
+E:\NHTraining1\Day-16\JoshLibrary\JoshLibrary\obj\Debug\JoshLibrary.pdb

@@ -1,0 +1,13 @@
+E:\NHTraining1\Day-16\MyProject1\ClientApp1\obj\Debug\ClientApp1.csproj.AssemblyReference.cache
+E:\NHTraining1\Day-16\MyProject1\ClientApp1\obj\Debug\ClientApp1.csproj.SuggestedBindingRedirects.cache
+E:\NHTraining1\Day-16\MyProject1\ClientApp1\obj\Debug\ClientApp1.csproj.CoreCompileInputs.cache
+E:\NHTraining1\Day-16\MyProject1\ClientApp1\bin\Debug\ClientApp1.exe.config
+E:\NHTraining1\Day-16\MyProject1\ClientApp1\bin\Debug\ClientApp1.exe
+E:\NHTraining1\Day-16\MyProject1\ClientApp1\bin\Debug\ClientApp1.pdb
+E:\NHTraining1\Day-16\MyProject1\ClientApp1\bin\Debug\JoshhLibrary.dll
+E:\NHTraining1\Day-16\MyProject1\ClientApp1\bin\Debug\PublicLibrary.dll
+E:\NHTraining1\Day-16\MyProject1\ClientApp1\bin\Debug\JoshhLibrary.pdb
+E:\NHTraining1\Day-16\MyProject1\ClientApp1\bin\Debug\PublicLibrary.pdb
+E:\NHTraining1\Day-16\MyProject1\ClientApp1\obj\Debug\ClientApp1.csproj.CopyComplete
+E:\NHTraining1\Day-16\MyProject1\ClientApp1\obj\Debug\ClientApp1.exe
+E:\NHTraining1\Day-16\MyProject1\ClientApp1\obj\Debug\ClientApp1.pdb

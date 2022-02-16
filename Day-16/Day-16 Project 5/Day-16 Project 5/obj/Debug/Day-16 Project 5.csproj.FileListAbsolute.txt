@@ -1,0 +1,10 @@
+E:\NHTraining1\Day-16\Day-16 Project 5\Day-16 Project 5\bin\Debug\Day-16 Project 5.exe.config
+E:\NHTraining1\Day-16\Day-16 Project 5\Day-16 Project 5\bin\Debug\Day-16 Project 5.exe
+E:\NHTraining1\Day-16\Day-16 Project 5\Day-16 Project 5\bin\Debug\Day-16 Project 5.pdb
+E:\NHTraining1\Day-16\Day-16 Project 5\Day-16 Project 5\bin\Debug\JoshLibrary.dll
+E:\NHTraining1\Day-16\Day-16 Project 5\Day-16 Project 5\obj\Debug\Day-16 Project 5.csproj.AssemblyReference.cache
+E:\NHTraining1\Day-16\Day-16 Project 5\Day-16 Project 5\obj\Debug\Day-16 Project 5.csproj.SuggestedBindingRedirects.cache
+E:\NHTraining1\Day-16\Day-16 Project 5\Day-16 Project 5\obj\Debug\Day-16 Project 5.csproj.CoreCompileInputs.cache
+E:\NHTraining1\Day-16\Day-16 Project 5\Day-16 Project 5\obj\Debug\Day-16 Project 5.csproj.CopyComplete
+E:\NHTraining1\Day-16\Day-16 Project 5\Day-16 Project 5\obj\Debug\Day-16 Project 5.exe
+E:\NHTraining1\Day-16\Day-16 Project 5\Day-16 Project 5\obj\Debug\Day-16 Project 5.pdb

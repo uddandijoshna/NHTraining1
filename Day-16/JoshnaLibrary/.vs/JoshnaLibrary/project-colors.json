@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5dc9d7ba-c162-4390-adaf-f3ba8f14aa0d": {
+      "ProjectGuid": "5dc9d7ba-c162-4390-adaf-f3ba8f14aa0d",
+      "DisplayName": "JoshnaLibrary",
+      "ColorIndex": 0
+    },
+    "ce96948c-8e0e-4685-8816-e8dab957613b": {
+      "ProjectGuid": "ce96948c-8e0e-4685-8816-e8dab957613b",
+      "DisplayName": "Day16Project10",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

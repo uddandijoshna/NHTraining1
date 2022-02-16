@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fe1923c9-1219-424e-ba48-7cf4f0f3d80e": {
+      "ProjectGuid": "fe1923c9-1219-424e-ba48-7cf4f0f3d80e",
+      "DisplayName": "Day17Project1",
+      "ColorIndex": 0
+    },
+    "9e0dd8a3-839f-408e-a087-43210e73e1de": {
+      "ProjectGuid": "9e0dd8a3-839f-408e-a087-43210e73e1de",
+      "DisplayName": "JoLibrary",
+      "ColorIndex": 1
+    },
+    "82bc381d-7ae5-40df-83ba-378fde1eb946": {
+      "ProjectGuid": "82bc381d-7ae5-40df-83ba-378fde1eb946",
+      "DisplayName": "PublicLibrary",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,5 @@
+E:\NHTraining1\Day-16\MyProject\JoshnaLibrary\bin\Debug\JoshnaLibrary.dll
+E:\NHTraining1\Day-16\MyProject\JoshnaLibrary\bin\Debug\JoshnaLibrary.pdb
+E:\NHTraining1\Day-16\MyProject\JoshnaLibrary\obj\Debug\JoshnaLibrary.csproj.CoreCompileInputs.cache
+E:\NHTraining1\Day-16\MyProject\JoshnaLibrary\obj\Debug\JoshnaLibrary.dll
+E:\NHTraining1\Day-16\MyProject\JoshnaLibrary\obj\Debug\JoshnaLibrary.pdb

@@ -1,0 +1,2 @@
+E:\NHTraining1\Day-16\Day17Project1\JoLibrary\obj\Debug\JoLibrary.csproj.AssemblyReference.cache
+E:\NHTraining1\Day-16\Day17Project1\JoLibrary\obj\Debug\JoLibrary.csproj.CoreCompileInputs.cache

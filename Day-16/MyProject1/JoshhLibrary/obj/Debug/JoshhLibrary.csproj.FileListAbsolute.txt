@@ -1,0 +1,6 @@
+E:\NHTraining1\Day-16\MyProject1\JoshhLibrary\bin\Debug\JoshhLibrary.dll
+E:\NHTraining1\Day-16\MyProject1\JoshhLibrary\bin\Debug\JoshhLibrary.pdb
+E:\NHTraining1\Day-16\MyProject1\JoshhLibrary\obj\Debug\JoshhLibrary.csproj.CoreCompileInputs.cache
+E:\NHTraining1\Day-16\MyProject1\JoshhLibrary\obj\Debug\JoshhLibrary.dll
+E:\NHTraining1\Day-16\MyProject1\JoshhLibrary\obj\Debug\JoshhLibrary.pdb
+E:\NHTraining1\Day-16\MyProject1\JoshhLibrary\obj\Debug\JoshhLibrary.csproj.AssemblyReference.cache

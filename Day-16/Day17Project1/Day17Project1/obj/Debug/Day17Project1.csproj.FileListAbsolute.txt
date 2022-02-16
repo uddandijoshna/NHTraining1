@@ -1,0 +1,3 @@
+E:\NHTraining1\Day-16\Day17Project1\Day17Project1\obj\Debug\Day17Project1.csproj.AssemblyReference.cache
+E:\NHTraining1\Day-16\Day17Project1\Day17Project1\obj\Debug\Day17Project1.csproj.SuggestedBindingRedirects.cache
+E:\NHTraining1\Day-16\Day17Project1\Day17Project1\obj\Debug\Day17Project1.csproj.CoreCompileInputs.cache

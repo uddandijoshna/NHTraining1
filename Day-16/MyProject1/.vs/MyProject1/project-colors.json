@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "effbd53d-9cc4-4786-9455-80870b92c615": {
+      "ProjectGuid": "effbd53d-9cc4-4786-9455-80870b92c615",
+      "DisplayName": "MyProject1",
+      "ColorIndex": 0
+    },
+    "c8c4a762-888c-4cfd-b851-b55c824c0d3e": {
+      "ProjectGuid": "c8c4a762-888c-4cfd-b851-b55c824c0d3e",
+      "DisplayName": "JoshhLibrary",
+      "ColorIndex": 1
+    },
+    "f08ae570-b000-4075-a937-0a6d3652ef94": {
+      "ProjectGuid": "f08ae570-b000-4075-a937-0a6d3652ef94",
+      "DisplayName": "PublicLibrary",
+      "ColorIndex": 2
+    },
+    "b9da8c96-bc5e-4766-ac8a-7ab28e63b320": {
+      "ProjectGuid": "b9da8c96-bc5e-4766-ac8a-7ab28e63b320",
+      "DisplayName": "ClientApp",
+      "ColorIndex": 3
+    },
+    "0e1bcc41-be29-4663-b275-177b62414a85": {
+      "ProjectGuid": "0e1bcc41-be29-4663-b275-177b62414a85",
+      "DisplayName": "MyProject2",
+      "ColorIndex": 4
+    },
+    "95d62db9-bd8f-4b5d-a061-1d65e3cc0409": {
+      "ProjectGuid": "95d62db9-bd8f-4b5d-a061-1d65e3cc0409",
+      "DisplayName": "MyProject3",
+      "ColorIndex": 5
+    },
+    "6014fee0-60ee-4efb-8380-8499c80b2a9b": {
+      "ProjectGuid": "6014fee0-60ee-4efb-8380-8499c80b2a9b",
+      "DisplayName": "ClientApp1",
+      "ColorIndex": 6
+    },
+    "53d1c581-4e69-4b3a-b8d3-400787f935d9": {
+      "ProjectGuid": "53d1c581-4e69-4b3a-b8d3-400787f935d9",
+      "DisplayName": "MyWindowsForms",
+      "ColorIndex": 7
+    },
+    "272769a8-925a-465a-92d0-fc647066b388": {
+      "ProjectGuid": "272769a8-925a-465a-92d0-fc647066b388",
+      "DisplayName": "MyWindowsForms1",
+      "ColorIndex": 8
+    },
+    "e02fb499-4ff1-4091-b591-aa6d93a5a689": {
+      "ProjectGuid": "e02fb499-4ff1-4091-b591-aa6d93a5a689",
+      "DisplayName": "MyWindowsFormsApp1",
+      "ColorIndex": 9
+    },
+    "a4d72835-31e7-4cdc-9ff5-0e18d9c03006": {
+      "ProjectGuid": "a4d72835-31e7-4cdc-9ff5-0e18d9c03006",
+      "DisplayName": "MyWindowsForms2",
+      "ColorIndex": 10
+    },
+    "13022e55-a31a-4e5b-9a78-bafdc868e244": {
+      "ProjectGuid": "13022e55-a31a-4e5b-9a78-bafdc868e244",
+      "DisplayName": "MyWindowsForms3",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}
