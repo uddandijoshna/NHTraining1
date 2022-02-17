@@ -1,0 +1,11 @@
+E:\NHTraining1\Day-18\JoshnaLibrary\Day18Project6\bin\Debug\Day18Project6.exe.config
+E:\NHTraining1\Day-18\JoshnaLibrary\Day18Project6\bin\Debug\Day18Project6.exe
+E:\NHTraining1\Day-18\JoshnaLibrary\Day18Project6\bin\Debug\Day18Project6.pdb
+E:\NHTraining1\Day-18\JoshnaLibrary\Day18Project6\bin\Debug\JoshnaLibrary.dll
+E:\NHTraining1\Day-18\JoshnaLibrary\Day18Project6\bin\Debug\JoshnaLibrary.pdb
+E:\NHTraining1\Day-18\JoshnaLibrary\Day18Project6\obj\Debug\Day18Project6.csproj.AssemblyReference.cache
+E:\NHTraining1\Day-18\JoshnaLibrary\Day18Project6\obj\Debug\Day18Project6.csproj.SuggestedBindingRedirects.cache
+E:\NHTraining1\Day-18\JoshnaLibrary\Day18Project6\obj\Debug\Day18Project6.csproj.CoreCompileInputs.cache
+E:\NHTraining1\Day-18\JoshnaLibrary\Day18Project6\obj\Debug\Day18Project6.csproj.CopyComplete
+E:\NHTraining1\Day-18\JoshnaLibrary\Day18Project6\obj\Debug\Day18Project6.exe
+E:\NHTraining1\Day-18\JoshnaLibrary\Day18Project6\obj\Debug\Day18Project6.pdb

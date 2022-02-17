@@ -1,0 +1,14 @@
+E:\NHTraining1\Day-18\JoshnaLibrary\MyWindowsForms\obj\Debug\MyWindowsForms.csproj.AssemblyReference.cache
+E:\NHTraining1\Day-18\JoshnaLibrary\MyWindowsForms\obj\Debug\MyWindowsForms.csproj.SuggestedBindingRedirects.cache
+E:\NHTraining1\Day-18\JoshnaLibrary\MyWindowsForms\obj\Debug\MyWindowsForms.Form1.resources
+E:\NHTraining1\Day-18\JoshnaLibrary\MyWindowsForms\obj\Debug\MyWindowsForms.Properties.Resources.resources
+E:\NHTraining1\Day-18\JoshnaLibrary\MyWindowsForms\obj\Debug\MyWindowsForms.csproj.GenerateResource.cache
+E:\NHTraining1\Day-18\JoshnaLibrary\MyWindowsForms\obj\Debug\MyWindowsForms.csproj.CoreCompileInputs.cache
+E:\NHTraining1\Day-18\JoshnaLibrary\MyWindowsForms\bin\Debug\MyWindowsForms.exe.config
+E:\NHTraining1\Day-18\JoshnaLibrary\MyWindowsForms\bin\Debug\MyWindowsForms.exe
+E:\NHTraining1\Day-18\JoshnaLibrary\MyWindowsForms\bin\Debug\MyWindowsForms.pdb
+E:\NHTraining1\Day-18\JoshnaLibrary\MyWindowsForms\bin\Debug\JoshnaLibrary.dll
+E:\NHTraining1\Day-18\JoshnaLibrary\MyWindowsForms\bin\Debug\JoshnaLibrary.pdb
+E:\NHTraining1\Day-18\JoshnaLibrary\MyWindowsForms\obj\Debug\MyWindowsForms.csproj.CopyComplete
+E:\NHTraining1\Day-18\JoshnaLibrary\MyWindowsForms\obj\Debug\MyWindowsForms.exe
+E:\NHTraining1\Day-18\JoshnaLibrary\MyWindowsForms\obj\Debug\MyWindowsForms.pdb

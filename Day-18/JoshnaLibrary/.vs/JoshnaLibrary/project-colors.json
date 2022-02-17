@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0a686432-0887-4aa6-97ec-5fe8acdec407": {
+      "ProjectGuid": "0a686432-0887-4aa6-97ec-5fe8acdec407",
+      "DisplayName": "JoshnaLibrary",
+      "ColorIndex": 0
+    },
+    "431112b0-ff62-42e0-9a76-bb22e7b68419": {
+      "ProjectGuid": "431112b0-ff62-42e0-9a76-bb22e7b68419",
+      "DisplayName": "MyWindowsForms",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

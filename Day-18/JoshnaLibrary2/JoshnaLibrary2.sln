@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoshnaLibrary2", "JoshnaLibrary2\JoshnaLibrary2.csproj", "{E95FB1C8-CCD0-470E-A736-631B612B3EBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoshnaLibrary2Tests", "JoshnaLibrary2Tests\JoshnaLibrary2Tests.csproj", "{31D02450-F8B5-4D2D-A853-2203C13F0889}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E95FB1C8-CCD0-470E-A736-631B612B3EBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E95FB1C8-CCD0-470E-A736-631B612B3EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E95FB1C8-CCD0-470E-A736-631B612B3EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E95FB1C8-CCD0-470E-A736-631B612B3EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31D02450-F8B5-4D2D-A853-2203C13F0889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31D02450-F8B5-4D2D-A853-2203C13F0889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31D02450-F8B5-4D2D-A853-2203C13F0889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31D02450-F8B5-4D2D-A853-2203C13F0889}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72CF3BBC-3404-426C-977A-7376A2BD1FC6}
+	EndGlobalSection
+EndGlobal
