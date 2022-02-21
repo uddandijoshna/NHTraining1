@@ -1,0 +1,9 @@
+ Name : shabi 
+	 Score : 60
+
+ Name : chinnu 
+	 Score : 60
+
+ Name : Sagar 
+	 Score : 60
+

@@ -1,0 +1,8 @@
+E:\NHTraining1\Day-20\VariableScope1\VariableScope1\bin\Debug\VariableScope1.exe.config
+E:\NHTraining1\Day-20\VariableScope1\VariableScope1\bin\Debug\VariableScope1.exe
+E:\NHTraining1\Day-20\VariableScope1\VariableScope1\bin\Debug\VariableScope1.pdb
+E:\NHTraining1\Day-20\VariableScope1\VariableScope1\obj\Debug\VariableScope1.csproj.AssemblyReference.cache
+E:\NHTraining1\Day-20\VariableScope1\VariableScope1\obj\Debug\VariableScope1.csproj.SuggestedBindingRedirects.cache
+E:\NHTraining1\Day-20\VariableScope1\VariableScope1\obj\Debug\VariableScope1.csproj.CoreCompileInputs.cache
+E:\NHTraining1\Day-20\VariableScope1\VariableScope1\obj\Debug\VariableScope1.exe
+E:\NHTraining1\Day-20\VariableScope1\VariableScope1\obj\Debug\VariableScope1.pdb

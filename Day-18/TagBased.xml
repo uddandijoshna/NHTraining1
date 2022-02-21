@@ -1,0 +1,55 @@
+<Electronics>
+<Tv>
+<ID>1</ID>
+<Name>Mi LED 32 inches</Name>
+<Price>12000</Price>
+</Tv>
+<Tv>
+<ID>2</ID>
+<Name>Sony Bravia 32 inches</Name>
+<Price>27000</Price>
+</Tv>
+<Tv>
+<ID>3</ID>
+<Name>Panasonic 43 inches</Name>
+<Price>35000</Price>
+</Tv>
+<Tv>
+<ID>4</ID>
+<Name>Samsung 49 inches</Name>
+<Price>41000</Price>
+</Tv>
+<Tv>
+<ID>5</ID>
+<Name>LG 43 inches</Name>
+<Price>39000</Price>
+</Tv>
+<Tv>
+<ID>6</ID>
+<Name>Sony Bravia 55 inches</Name>
+<Price>132000</Price>
+</Tv>
+<Tv>
+<ID>7</ID>
+<Name>LG 55 inches</Name>
+<Price>124000</Price>
+</Tv>
+<Tv>
+<ID>8</ID>
+<Name>LG 77 inches</Name>
+<Price>3299900</Price>
+</Tv>
+<Tv>
+<ID>9</ID>
+<Name>Mi LED 55 inches</Name>
+<Price>34000</Price>
+</Tv>
+<Tv>
+<ID>10</ID>
+<Name>Samsung 55 inches</Name>
+<Price>49000</Price>
+</Tv>
+</Electronics>
+
+
+

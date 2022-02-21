@@ -1,0 +1,8 @@
+E:\NHTraining1\Day-10 Evening Assignment\Day-10 Evening Project1\Day-10 Evening Project1\bin\Debug\Day-10 Evening Project1.exe.config
+E:\NHTraining1\Day-10 Evening Assignment\Day-10 Evening Project1\Day-10 Evening Project1\bin\Debug\Day-10 Evening Project1.exe
+E:\NHTraining1\Day-10 Evening Assignment\Day-10 Evening Project1\Day-10 Evening Project1\bin\Debug\Day-10 Evening Project1.pdb
+E:\NHTraining1\Day-10 Evening Assignment\Day-10 Evening Project1\Day-10 Evening Project1\obj\Debug\Day-10 Evening Project1.csproj.AssemblyReference.cache
+E:\NHTraining1\Day-10 Evening Assignment\Day-10 Evening Project1\Day-10 Evening Project1\obj\Debug\Day-10 Evening Project1.csproj.SuggestedBindingRedirects.cache
+E:\NHTraining1\Day-10 Evening Assignment\Day-10 Evening Project1\Day-10 Evening Project1\obj\Debug\Day-10 Evening Project1.csproj.CoreCompileInputs.cache
+E:\NHTraining1\Day-10 Evening Assignment\Day-10 Evening Project1\Day-10 Evening Project1\obj\Debug\Day-10 Evening Project1.exe
+E:\NHTraining1\Day-10 Evening Assignment\Day-10 Evening Project1\Day-10 Evening Project1\obj\Debug\Day-10 Evening Project1.pdb

@@ -1,0 +1,8 @@
+E:\NHTraining1\Day-21\ClientApp\ClientApp\bin\Debug\ClientApp.exe.config
+E:\NHTraining1\Day-21\ClientApp\ClientApp\bin\Debug\ClientApp.exe
+E:\NHTraining1\Day-21\ClientApp\ClientApp\bin\Debug\ClientApp.pdb
+E:\NHTraining1\Day-21\ClientApp\ClientApp\obj\Debug\ClientApp.csproj.AssemblyReference.cache
+E:\NHTraining1\Day-21\ClientApp\ClientApp\obj\Debug\ClientApp.csproj.SuggestedBindingRedirects.cache
+E:\NHTraining1\Day-21\ClientApp\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+E:\NHTraining1\Day-21\ClientApp\ClientApp\obj\Debug\ClientApp.exe
+E:\NHTraining1\Day-21\ClientApp\ClientApp\obj\Debug\ClientApp.pdb
