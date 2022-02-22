@@ -1,0 +1,13 @@
+E:\NHTraining1\Day-22\JoshnaFinalProject\JoshClientApp\bin\Debug\JoshClientApp.exe.config
+E:\NHTraining1\Day-22\JoshnaFinalProject\JoshClientApp\bin\Debug\JoshClientApp.exe
+E:\NHTraining1\Day-22\JoshnaFinalProject\JoshClientApp\bin\Debug\JoshClientApp.pdb
+E:\NHTraining1\Day-22\JoshnaFinalProject\JoshClientApp\obj\Debug\JoshClientApp.csproj.AssemblyReference.cache
+E:\NHTraining1\Day-22\JoshnaFinalProject\JoshClientApp\obj\Debug\JoshClientApp.csproj.SuggestedBindingRedirects.cache
+E:\NHTraining1\Day-22\JoshnaFinalProject\JoshClientApp\obj\Debug\JoshClientApp.csproj.CoreCompileInputs.cache
+E:\NHTraining1\Day-22\JoshnaFinalProject\JoshClientApp\obj\Debug\JoshClientApp.exe
+E:\NHTraining1\Day-22\JoshnaFinalProject\JoshClientApp\obj\Debug\JoshClientApp.pdb
+E:\NHTraining1\Day-22\JoshnaFinalProject\JoshClientApp\bin\Debug\BusinessLogicLibrary.dll
+E:\NHTraining1\Day-22\JoshnaFinalProject\JoshClientApp\bin\Debug\DataAccessLibrary.dll
+E:\NHTraining1\Day-22\JoshnaFinalProject\JoshClientApp\bin\Debug\BusinessLogicLibrary.pdb
+E:\NHTraining1\Day-22\JoshnaFinalProject\JoshClientApp\bin\Debug\DataAccessLibrary.pdb
+E:\NHTraining1\Day-22\JoshnaFinalProject\JoshClientApp\obj\Debug\JoshClientApp.csproj.CopyComplete
